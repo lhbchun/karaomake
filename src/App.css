@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #2e2e2e; /* Dark grey background */
+  color: #fff; /* White text for better contrast */
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
